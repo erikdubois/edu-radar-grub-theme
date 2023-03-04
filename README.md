@@ -6,6 +6,11 @@ all credits to the developer of darkmatter grub
 
 Copyright at the end of this file
 
+coming from 
+
+https://gitlab.com/VandalByte/darkmatter-grub-theme
+
+
 Learn, have fun and enjoy.
 
 
