@@ -4,6 +4,15 @@ Educational tutorial
 
 all credits to the developer of darkmatter grub
 
+
+### ✔️ Installation
+
+```shell
+git clone --depth 1 https://github.com/erikdubois/radar-grub-theme.git && cd radar-grub-theme
+sudo python3 radar-theme.py --install
+```
+
+
 Copyright at the end of this file
 
 coming from 
